@@ -1,3 +1,4 @@
+  <div align="center">
 <img width="400" height="400" align="center" alt="selfsona chibi" src="https://i.ibb.co/jv3MRZCV/3dgifmaker12829.gif" />
   </div>
   <div align="center">
